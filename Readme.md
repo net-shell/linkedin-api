@@ -30,10 +30,8 @@ Here is a list of features that might convince you to choose this LinkedIn clien
 Install it with Composer.
 
 ```bash
-php composer.phar require happyr/linkedin-api-client:dev-master
+composer require net-shell/linkedin-api:dev-master
 ```
-
-If you are updating form a previous version make sure to read [the upgrade documentation](Upgrade.md).
 
 ## Usage
 
