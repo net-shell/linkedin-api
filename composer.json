@@ -13,7 +13,6 @@
     ],
     "require": {
         "php": ">=5.4",
-        "guzzlehttp/streams": "~3.0",
         "guzzlehttp/guzzle": "~4.0"
     },
     "require-dev": {
