@@ -1,19 +1,19 @@
 {
-    "name": "happyr/linkedin-api-client",
+    "name": "net-shell/linkedin-api",
     "type": "library",
-    "description": "LinkedIn API client. Handles OAuth, CSRF protection. Easy to implement and extend. This is a standalone library for any composer project.",
+    "description": "LinkedIn API client. Handles OAuth, CSRF protection. Easy to implement and extend..",
     "keywords": ["LinkedIn", "OAuth", "API", "Client", "SDK"],
     "homepage": "http://developer.happyr.com/libraries/linkedin-php-client",
     "license": "MIT",
     "authors": [
         {
-            "name": "Tobias Nyholm",
-            "email": "tobias@happyr.com"
+            "name": "Ash",
+            "email": "ash@netshell.co"
         }
     ],
     "require": {
         "php": ">=5.4",
-        "guzzlehttp/guzzle": "~5.0"
+        "guzzlehttp/guzzle": "~4.0"
     },
     "require-dev": {
         "mockery/mockery": "*",
